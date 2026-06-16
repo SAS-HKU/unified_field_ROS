@@ -2,6 +2,8 @@
 
 ROS 2 Humble navigation experiments for AgileX LIMO platforms.
 
+![Methodology graph](assests/unified_field_ROS.png)
+
 This package contains two related planners:
 
 - `potential_field_wander`: a conservative potential-field wanderer with optional RViz goal mode.
