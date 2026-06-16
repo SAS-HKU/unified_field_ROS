@@ -442,6 +442,3 @@ Then relaunch with:
 odom_topic:=/odom
 ```
 
-## Important Safety Note
-
-This package is an experimental local planner. It is not a full certified navigation stack. Use low speeds, keep manual stop available, and test in controlled space before increasing speed or integrating with higher-level autonomy.
