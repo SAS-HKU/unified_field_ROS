@@ -2,7 +2,7 @@
 
 ROS 2 Humble navigation experiments for AgileX LIMO platforms.
 
-![Methodology graph](assests/unified_field_ROS.png)
+![Methodology graph](assets/unified_field_ROS.png)
 
 This package contains two related planners:
 
