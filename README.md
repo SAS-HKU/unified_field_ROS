@@ -319,8 +319,6 @@ Commands are reduced or redirected when `h(x)` becomes small.
 
 The risk-aware modes keep a short memory of recent scan points and compute a local risk-gradient term. This helps avoid areas that were recently observed as risky even when a single scan frame is sparse or noisy.
 
-The current onboard `pde_risk` mode is a deployable scan-memory risk-gradient approximation. It is not yet a full online finite-difference PDE solver.
-
 A full PDE solver would add an explicit local risk grid and update it every control tick:
 
 ```text
