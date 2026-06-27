@@ -9,6 +9,8 @@ This package contains two related planners:
 - `potential_field_wander`: a conservative potential-field wanderer with optional RViz goal mode.
 - `safe_vf`: a goal-directed safe vector-field controller with baseline modes, CBF-style safety filtering, short-horizon risk memory, and RViz field markers.
 
+![Methodology graph](assets/riskflow_vf.png)
+
 The package is intentionally independent of a specific LIMO bringup package. It only requires standard ROS topics and frames from the robot platform.
 
 ## Platform Requirements
