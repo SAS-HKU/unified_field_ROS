@@ -1,4 +1,4 @@
-# limo_nav
+# unifield field-based ROS navigation
 
 ROS 2 Humble navigation experiments for AgileX LIMO platforms.
 
